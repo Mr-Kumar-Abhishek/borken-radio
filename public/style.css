@@ -28,3 +28,11 @@ footer {
   padding-top: 25px;
   border-top: 1px solid lightgrey;
 }
+
+.roundy {
+  border-radius: 5px;
+}
+
+.card {
+  margin-top 1
+}
